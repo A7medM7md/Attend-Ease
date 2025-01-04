@@ -10,3 +10,5 @@
 - HTTP communication, API integration, Arduino IDE.
 ### Tools: 
 - ESP8266, RFID sensor, Python Flask, Google Sheets API
+### Project Video link
+https://drive.google.com/file/d/1xw2QHZ5W14H5ADoT60GJlzvjTAYX--zS/view?usp=sharing
